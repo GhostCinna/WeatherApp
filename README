@@ -1,4 +1,4 @@
-PyQt5 package installed needed!
+PyQt5 package needed!
 Developed a GUI-based weather application using Python and PyQt5, integrating the OpenWeatherMap API for real-time weather data retrieval.
 Designed an intuitive user interface with styled widgets, emoji-based weather icons, and error handling for a friendly user experience.
 Implemented API request handling, exception management, and dynamic UI updates to ensure robust and reliable performance.
